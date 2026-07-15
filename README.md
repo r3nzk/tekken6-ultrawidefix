@@ -9,6 +9,7 @@ A simple utility that automatically injects ultrawide aspect ratio patches into 
 
 ## Features
 - 21:9 and 32:9 aspect ratio support for Tekken 6 (RPCS3)
+- Supports Normal Battle or Scenario Campaign.
 - Standby tray behaviour (check for RPCS3/Tekken6 process on the background).
 - Revert patch on exit or keep after closing.
 
