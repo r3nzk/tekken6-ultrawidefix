@@ -169,7 +169,7 @@ namespace tekken6ultrawidefix
                 var linkGit = new LinkButton { Text = "My Github" }; 
                 linkGit.Click += (sender, ev) => Application.Instance.Open("https://github.com/r3nzk");
                 var linkRepo = new LinkButton { Text = "Repo" }; 
-                linkRepo.Click += (sender, ev) => Application.Instance.Open("https://github.com/r3nzk/tekken6ultrawidefix");
+                linkRepo.Click += (sender, ev) => Application.Instance.Open("https://github.com/r3nzk/tekken6-ultrawidefix");
                 
                 var linkRow = new StackLayout { Orientation = Orientation.Horizontal, Spacing = 5 };
                 linkRow.Items.Add(linkGit); linkRow.Items.Add(new Label { Text = "|" }); linkRow.Items.Add(linkRepo);
