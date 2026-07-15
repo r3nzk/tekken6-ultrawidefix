@@ -52,6 +52,7 @@ It can be expanded to add anything too, any cheat or extra option.
 
 ## To Do
 - **Linux Support:** The UI and backend was built to be cross-platform, but I haven't had the time to implement the Linux memory scanner backend and process tracking.
+- I only tested this on BLUS30359, but it should work on all versions of T6.
 
 ## License
 MIT License – Free to use, modify, and distribute.
