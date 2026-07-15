@@ -1,5 +1,7 @@
 # Tekken 6 Ultrawide Fix
-[![Github license](https://img.shields.io/github/license/r3nzk/tekken6-ultrawidefix.svg)](LICENSE) [![GitHub release](https://img.shields.io/github/v/release/R3nzk/tekken6-ultrawidefix?style=label=release)](https://github.com/R3nzk/tekken6-ultrawidefix/releases) ![Version](https://img.shields.io/badge/version-0.1-blue.svg)
+[![Github license](https://img.shields.io/github/license/r3nzk/tekken6-ultrawidefix.svg)](LICENSE) 
+[![GitHub release](https://img.shields.io/github/release/r3nzk/tekken6-ultrawidefix.svg)](https://github.com/r3nzk/tekken6-ultrawidefix//releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/r3nzk/tekken6-ultrawidefix/total.svg)](https://github.com/r3nzk/tekken6-ultrawidefix/releases/latest)
 
 <p align="center">
   <img width="800" height="337" alt="t6-preview" src="https://github.com/user-attachments/assets/edf8ddec-00d9-429d-b699-f18f63a81e30"/>
