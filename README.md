@@ -47,8 +47,8 @@ It can be expanded to add anything too, any cheat or extra option.
  
 ## Known Issues
 - Some character/stage models might disappear near the edges of the screen on specific maps (the game engine thinks they are off-screen and stops rendering them).
--The Versus/loading screen is still stretched.
-- UI elements are stretched to fit the screen.
+- The Versus/loading screen is still stretched.
+- UI elements are still stretched to fit the screen.
 - If you close the tool while the game is patched with the "Restore On Exit" option disabled, when reopening the tool on the same process, it won't be able to find the address again, and you will have to restart the game.
 
 ## To Do
