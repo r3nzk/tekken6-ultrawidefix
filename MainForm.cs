@@ -318,7 +318,9 @@ namespace tekken6ultrawidefix
 
         #region settings ini
         private string GetIniPath() {
-            return System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "settings.ini");
+            string exePath = Environment.ProcessPath ?? AppDomain.CurrentDomain.BaseDirectory;
+            string dir = System.IO.Path.GetDirectoryName(exePath) ?? AppDomain.CurrentDomain.BaseDirectory;
+            return System.IO.Path.Combine(dir, "settings.ini");
         }
 
         private void LoadSettings() {
